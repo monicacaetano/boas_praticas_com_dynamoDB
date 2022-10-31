@@ -1,4 +1,4 @@
-# dio-live-dynamodb
+# Boas práticas com DynamoDB
 Desafio de projeto do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados", em parceria com a Digital Innovation One.
 
 ### Serviço utilizado
